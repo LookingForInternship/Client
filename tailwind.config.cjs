@@ -5,6 +5,7 @@ const config = {
   theme: {
     extend: {
       colors: {
+		purple: '#8934FF',
 		blue: '#0755BA',
 		lightgray: '#F7FBFF',
 		deepgray: '#C3C9D4',
