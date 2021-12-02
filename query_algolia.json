@@ -1,0 +1,67 @@
+[
+  {
+    "nom_bateau": "Kharg",
+    "jour_du_naufrage": "2 juin 2021",
+    "lieu": "Djask",
+    "country": "Oman",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/Kharg_(p%C3%A9trolier_ravitailleur)",
+    "strapi_id": 1
+  },
+  {
+    "nom_bateau": "Gulf Livestock 1",
+    "jour_du_naufrage": "3 septembre 2020",
+    "lieu": "Anami Oshima",
+    "country": "Japon",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/Gulf_Livestock_1",
+    "strapi_id": 2
+  },
+  {
+    "nom_bateau": "Embarcation clandestine de migrants",
+    "jour_du_naufrage": "19 août 2020",
+    "lieu": "Zouara",
+    "country": "Libye",
+    "lien_wikipedia": "none",
+    "strapi_id": 3
+  },
+  {
+    "nom_bateau": "MV Wakashio",
+    "jour_du_naufrage": "25 juillet 2020",
+    "lieu": "Ile Maurice",
+    "country": "-",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/MV_Wakashio",
+    "strapi_id": 4
+  },
+  {
+    "nom_bateau": "Embarcation clandestine de migrants",
+    "jour_du_naufrage": "25 juillet 2019",
+    "lieu": "Mer Méditéranée",
+    "country": "-",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/Naufrage_du_25_juillet_2019_en_M%C3%A9diterran%C3%A9e",
+    "strapi_id": 5
+  },
+  {
+    "nom_bateau": "Ro-Ro / Grande America",
+    "jour_du_naufrage": "12 mars 2019",
+    "lieu": "Finistère",
+    "country": "France",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/Naufrage_du_25_juillet_2019_en_M%C3%A9diterran%C3%A9e",
+    "strapi_id": 6
+  },
+  {
+    "nom_bateau": "Mes études 🥲",
+    "jour_du_naufrage": "7 septembre 2021",
+    "lieu": "Evry",
+    "country": "France",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/D%C3%A9crochage_scolaire",
+    "strapi_id": 7
+  },
+  {
+    "nom_bateau": "MT Sanchi",
+    "jour_du_naufrage": "14 janvier 2018",
+    "lieu": "Mer de Chine orientale",
+    "country": "Chine",
+    "lien_wikipedia": "https://fr.wikipedia.org/wiki/MT_Sanchi",
+    "strapi_id": 8
+  }
+
+]
