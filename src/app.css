@@ -2,3 +2,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+
+    .field {
+        @apply rounded-sm py-2 font-light text-sm mt-2 border 
+        focus:border-blue outline-none border-extralightgray 
+        placeholder-deepgray px-3
+    }
+
+}
