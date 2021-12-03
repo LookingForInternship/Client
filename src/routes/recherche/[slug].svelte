@@ -21,8 +21,7 @@
     export let naufrage: Naufrage;
 </script>
 
-<Nav></Nav>
-<main class="flex flex-col items-center">
+<main class="flex flex-col items-center dark:text-white">
     <p class="mt-10 sm:mt-20 text-center uppercase text-purple text-xs font-bold">données de naufrage</p>
     <h1 class="mt-10 text-2xl font-bold">Naufrage du {naufrage.nom_bateau}</h1>
     <div class="mt-10 flex flex-col">
@@ -30,6 +29,6 @@
         <p class="text-md ">Pays du naufrage : {naufrage.country}</p>
         <p class="text-md ">Nombres de morts : {naufrage.country}</p>
         <p class="text-md ">Date du naufrage : {naufrage.jour_du_naufrage}</p>
-        <a class="flex flex-row py-3 px-5 shadow-sm mt-10 rounded-lg font-semibold hover:bg-extralightgray transition" target="_blank" href="{naufrage.lien_wikipedia}">Lire l'article Wikipédia sur l'accident <img class="ml-2 w-6" src="/wikipedia_logo.svg" alt="Logo wikipedia"></a>
+        <a class="flex flex-row py-3 px-5 shadow-sm mt-10 rounded-lg font-semibold hover:bg-extralightgray transition dark:bg-dark-light dark:shadow-none dark:hover:bg-dark-cards" target="_blank" href="{naufrage.lien_wikipedia}">Lire l'article Wikipédia sur l'accident <img class="ml-2 w-6" src="/wikipedia_logo.svg" alt="Logo wikipedia"></a>
     </div>
 </main>
