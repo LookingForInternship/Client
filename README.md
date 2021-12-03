@@ -9,15 +9,15 @@ Bonne matinée à vous, nous sommes conscients que nous sommes le 47ème groupe 
 Voici tout d'abord le lien du site : https://nervous-brown-bbf51e.netlify.app/
 
 Nous avons réussi à relever le défi de la nuit de l'info en rendant une application permettant :
-    - une recherche de naufrages ultra rapide 🔎
-    - la possibilité d'ajouter un naufragé non existant et de contacter les surfers de Dunkerque 
-    - un dark-mode 🌙(pour éviter de piquer les yeux)
-    - une architecture conçue pour être la plus écolo possible ! 🍃
+- une recherche de naufrages ultra rapide 🔎
+- la possibilité d'ajouter un naufragé non existant et de contacter les surfers de Dunkerque 
+- un dark-mode 🌙(pour éviter de piquer les yeux)
+- une architecture conçue pour être la plus écolo possible ! 🍃
 
 Nous avons choisi une architecture en JAM stack (Javascript, API, Markup) avec :
-    - le front-end : codé à l'aide du framework SvelteKit, qui est l'équivalent de Next.js pour le framework Svelte, mais avec des rendus SSR.
+- le front-end : codé à l'aide du framework SvelteKit, qui est l'équivalent de Next.js pour le framework Svelte, mais avec des rendus SSR.
     lien du repo : 
-    - l'api : codée avec le framework Strapi, qui est un headless CMS très orienté dev. Nous y stockons les utilisateurs ainsi que les données sur les naufrages.
+- l'api : codée avec le framework Strapi, qui est un headless CMS très orienté dev. Nous y stockons les utilisateurs ainsi que les données sur les naufrages.
     lien du repo :
 
 Nous avons utilisé la base de donnée texte Algolia pour effectuer des recherches super rapides et qui se mettent à jour à chaque nouvelle lettre tapée. Pour le framework CSS nous avons utilisé TailwindCSS (qui d'autre franchement ?).
@@ -25,9 +25,9 @@ Nous avons utilisé la base de donnée texte Algolia pour effectuer des recherch
 ## Impact écologique
 
 Tous nos choix ont été faits pour réduire au maximum l'impact : 
-    - La charge par le serveur à été réduite au maximum étant donné que le JAM stack n'est constitué que de sites statiques
-    - Algolia est une entreprise qui a réussi à atteindre la neutralité carbone, la recherche n'est donc pas polluante
-    - Svelte est l'un des frameworks les plus légers et économes en lignes de code
+- La charge par le serveur à été réduite au maximum étant donné que le JAM stack n'est constitué que de sites statiques
+- Algolia est une entreprise qui a réussi à atteindre la neutralité carbone, la recherche n'est donc pas polluante
+- Svelte est l'un des frameworks les plus légers et économes en lignes de code
 
 ## Faire fonctionner le projet
 
@@ -71,4 +71,4 @@ Les données sont propres au serveurs et devront donc être ré-écrites pour l'
 ## Contact
 
 - Quentin Chaignaud : quentinchaignaudpro@gmail.com
-- Paul Bourmaud : 
+- Paul Bourmaud : paulbourmaudpro@gmail.com
