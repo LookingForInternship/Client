@@ -13,7 +13,6 @@
 
 <div class="{theme} ">
   <div class="dark:bg-dark-background transition h-full">
-
     <nav class="py-4 flex flex-row justify-between items-center px-16">
     {#if theme == 'dark'}
       <a href="../"><img class="h-12 transition" src="/logo-dark.png" alt="Logo"></a>

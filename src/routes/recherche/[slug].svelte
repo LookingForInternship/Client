@@ -21,7 +21,7 @@
     export let naufrage: Naufrage;
 </script>
 
-<main class="flex flex-col items-center dark:text-white">
+<main class="flex flex-col items-center dark:text-white h-screen">
     <p class="mt-10 sm:mt-20 text-center uppercase text-purple text-xs font-bold">données de naufrage</p>
     <h1 class="mt-10 text-2xl font-bold">Naufrage du {naufrage.nom_bateau}</h1>
     <div class="mt-10 flex flex-col">
