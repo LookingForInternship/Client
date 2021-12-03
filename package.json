@@ -11,12 +11,14 @@
     "lint": "eslint --ignore-path .gitignore ."
   },
   "devDependencies": {
+    "@rollup/plugin-replace": "^3.0.0",
     "@sveltejs/adapter-auto": "next",
     "@sveltejs/kit": "next",
     "@typescript-eslint/eslint-plugin": "^4.31.1",
     "@typescript-eslint/parser": "^4.31.1",
     "autoprefixer": "^10.4.0",
     "cssnano": "^5.0.8",
+    "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
     "eslint-plugin-svelte3": "^3.2.1",
     "postcss": "^8.4.4",
