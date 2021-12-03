@@ -71,4 +71,4 @@ Les données sont propres au serveurs et devront donc être ré-écrites pour l'
 ## Contact
 
 - Quentin Chaignaud : quentinchaignaudpro@gmail.com
-- Paul Bourmaud : 
+- Paul Bourmaud : paulbourmaudpro@gmail.com
